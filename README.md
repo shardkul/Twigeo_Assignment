@@ -9,6 +9,7 @@ twigeoImpactInstalls.ipynb for EDA and to provide soultion to first problem stat
 how many users installed the app due to marketing executed by Twigeo historically?
 
 For presentation of plots and explanations around the same please refer the twigeoImpactInstalls.html 
+under html_presentatons folder
 
 ------------------------------------------------------------------------------------------------
 Task 2
@@ -21,4 +22,4 @@ next 4 weeks given following 2 scenarios respectively.
   2. $0 on Facebook ads and $0 Google ads in the coming 4 weeks 
 
 For presentation of plots and explanations around the same please refer the predictionWithCampaign.html 
-& predictionWithoutCampaign.html
+& predictionWithoutCampaign.html under html_presentatons folder
